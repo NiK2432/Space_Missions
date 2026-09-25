@@ -3,7 +3,7 @@ from missions import SPACE_MISSIONS, display_missions, find_missions_by_directio
 if __name__ == "__main__":
     display_missions(SPACE_MISSIONS)
 
-    search_direction = input("Введите направление для поиска: ")
+    search_direction = input("Введите направление для поискаа: ")
 
     found = find_missions_by_direction(SPACE_MISSIONS, search_direction)
 

@@ -12,7 +12,7 @@ SPACE_MISSIONS = [
     {
         "name": "Voyager 1",
         "year": 1977,
-        "direction": "Дальний космос",
+        "direction": "Дальний космосс",
     },
     {
         "name": "Chandrayaan-3",
